@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Test10",
+        "NF": 10,
+        "NM": 2,
+        "NTop": 4,
+        "NLeaf": 9,
+        "DTMax": 5,
+        "CogC": 2,
+        "FoC": 0,
+        "SCDF": 0,
+        "RDen": 0
+    },
+    {
+        "name": "Test100",
+        "NF": 100,
+        "NM": 26,
+        "NTop": 6,
+        "NLeaf": 83,
+        "DTMax": 8,
+        "CogC": 15,
+        "FoC": 0.21,
+        "SCDF": 2,
+        "RDen": 3
+    },
+    {
+        "name": "Test1000",
+        "NF": 1000,
+        "NM": 260,
+        "NTop": 6,
+        "NLeaf": 729,
+        "DTMax": 11,
+        "CogC": 133,
+        "FoC": 0.247,
+        "SCDF": 9,
+        "RDen": 30
+    },
+    {
+        "name": "Test10000",
+        "NF": 10000,
+        "NM": 2595,
+        "NTop": 6,
+        "NLeaf": 7149,
+        "DTMax": 14,
+        "CogC": 1309,
+        "FoC": 0.2591,
+        "SCDF": 78,
+        "RDen": 300
+    },
+    {
+        "name": "Test100000",
+        "NF": 100000,
+        "NM": 26197,
+        "NTop": 6,
+        "NLeaf": 70875,
+        "DTMax": 16,
+        "CogC": 13036,
+        "FoC": 0.26368,
+        "SCDF": 800,
+        "RDen": 3000
+    }
+]
