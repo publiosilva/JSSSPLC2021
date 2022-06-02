@@ -9,9 +9,9 @@ The DyMMer tool is available at [dymmerufc.github.io](https://dymmerufc.github.i
 
 | Dataset | Description | Size | Original Files |
 |---------|-------------|------|----------------|
-| [Original dataset](https://github.com/publiosilva/JSSSPLC2021/blob/master/unclassified-dataset.csv) | This is the original (unclassified) dataset. | 342 | [Files](https://github.com/publiosilva/JSSSPLC2021/tree/master/feature-models)
-| [Oliveira dataset](https://github.com/publiosilva/JSSSPLC2021/blob/master/oliveira-dataset.csv) | The Oliveira dataset contains the same feature models as the original dataset but classified using Oliveira's approach. We use this dataset in the training of machine learning algorithms. | 342 | [Files](https://github.com/publiosilva/JSSSPLC2021/tree/master/feature-models)
-| [Silva dataset](https://github.com/publiosilva/JSSSPLC2021/blob/master/silva-dataset.csv) | The Oliveira dataset contains the same feature models as the original dataset but classified using Silva's approach. | 342 | [Files](https://github.com/publiosilva/JSSSPLC2021/tree/master/feature-models)
+| [Original dataset](https://github.com/publiosilva/JSSSPLC2021/blob/master/datasets/full-dataset.csv) | This is the original (unclassified) dataset. | 342 | [Files](https://github.com/publiosilva/JSSSPLC2021/tree/master/feature-models)
+| [Oliveira dataset](https://github.com/publiosilva/JSSSPLC2021/blob/master/datasets/oliveira-dataset.csv) | The Oliveira dataset contains the same feature models as the original dataset but classified using Oliveira's approach. We use this dataset in the training of machine learning algorithms. | 342 | [Files](https://github.com/publiosilva/JSSSPLC2021/tree/master/feature-models)
+| [Silva dataset](https://github.com/publiosilva/JSSSPLC2021/blob/master/datasets/silva-dataset.csv) | The Oliveira dataset contains the same feature models as the original dataset but classified using Silva's approach. | 342 | [Files](https://github.com/publiosilva/JSSSPLC2021/tree/master/feature-models)
 | [Dataset evaluated by SPL experts](https://github.com/publiosilva/JSSSPLC2021/blob/master/expert-evaluation/measures.csv) | This dataset was manually evaluated by a group of 15 experts in SPL. | 50 | [Files](https://github.com/publiosilva/JSSSPLC2021/tree/master/expert-evaluation/feature-models)
 
 ## Notebooks
